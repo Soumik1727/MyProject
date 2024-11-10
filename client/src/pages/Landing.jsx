@@ -16,10 +16,7 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            I'm baby wayfarers hoodie next level taiyaki brooklyn cliche blue
-            bottle single-origin coffee chia. Aesthetic post-ironic venmo,
-            quinoa lo-fi tote bag adaptogen everyday carry meggings +1 brunch
-            narwhal.
+          An application to track job applications, interviews, and rejections, helping users manage their job search process efficiently. It keeps everything organized in one place, providing a clear view of application statuses and progress toward career goals.
           </p>
           <Link to='/register' className='btn register-link'>
             Register
